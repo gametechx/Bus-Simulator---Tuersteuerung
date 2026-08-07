@@ -1,0 +1,18 @@
+# Lazarus / Free Pascal Build-Artefakte
+*.exe
+*.o
+*.ppu
+*.compiled
+*.res
+*.or
+lib/
+backup/
+*.lps
+
+# Arduino
+*.hex
+*.bin
+
+# Windows
+Thumbs.db
+desktop.ini
